@@ -1,0 +1,19 @@
+{
+  "name": "venzee-idgenerator",
+  "version": "1.0.0",
+  "description": "Preferred method for generating unique ids for records.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Xin Huang <xin@venzee.com>",
+  "license": "ISC",
+  "dependencies": {
+    "biguint-format": "^0.2.2",
+    "flake-idgen": "^0.1.4"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/venzee/venzee-api.git"
+  }
+}
